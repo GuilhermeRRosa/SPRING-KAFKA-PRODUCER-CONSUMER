@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.3.2</version>
+		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>gg.code.sprproducer</groupId>
-	<artifactId>SpringProducer</artifactId>
+	<groupId>gg.code</groupId>
+	<artifactId>paymentservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringProducer</name>
-	<description>Demo project for Spring Boot with Kafka</description>
+	<name>paymentservice</name>
+	<description>Demo project for Spring Boot with Apache Kafka</description>
 	<url/>
 	<licenses>
 		<license/>
