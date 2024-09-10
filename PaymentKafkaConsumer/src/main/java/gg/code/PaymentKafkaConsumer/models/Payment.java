@@ -1,12 +1,12 @@
-package gg.code.paymentservice.model;
+package gg.code.PaymentKafkaConsumer.models;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import java.io.Serializable;
 
 @Getter
+@Setter
+@ToString
 @AllArgsConstructor
 @NoArgsConstructor
 public class Payment implements Serializable {
